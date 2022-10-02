@@ -18,4 +18,4 @@ At the end there is an input for your initials where your final score will appea
 
 
 
-![Link to deployed page](https://edna1999.github.io/coding-quiz/)
+Link to deployed page: https://edna1999.github.io/coding-quiz/
