@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Coding Quiz</title>
+</head>
+<body>
+
+
+    <button class="start">Start</button>
+
+     <!-- Instructions box-->
+     <section class="container1">
+        <div class="instructions"><h2>Instructions</h2></div>
+        <hr>
+         <ul class="list1">
+
+           <li>The quiz contains five questions.</li>
+           <li>You have 75 seconds to answer all the questions.</li>
+           <li>If your answer is wrong the timer will deduct 15 seconds.</li>
+           <li>Your total score will appear at the end.</li>
+          
+         </ul>
+   
+         <hr>
+   
+         <div class="instruction-buttons">
+          
+         <button class="end-button">End Quiz</button>
+         <button class="con-button">Continue</button>
+        
+       </div>
+      </section>
+
+       
+        
+
+       <!-- Questions Box -->
+
+    <div class="questions-container">
+
+        <p class="rightOrWrong"></p>
+
+    <div class="timer">Time Left:<span class="counter">75</span></div>
+
+        <p class="questions"></p>
+     
+        <button id="A" class="answer"></button>
+        <button id="B" class="answer"></button>
+        <button id="C" class="answer"></button>
+        <button id="D" class="answer"></button>
+        <!-- <button class="next">Next</button> -->
+
+    </div>
+
+
+
+  <!-- score box -->
+    <div class="end">
+
+    <h2> You did it!</h2>
+
+    <p> Enter initials</p>
+
+    <input class= "input" type="text"><button class="submit">Submit</button>
+
+    <div class="score"></div>
+
+</div>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
