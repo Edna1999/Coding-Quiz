@@ -2,9 +2,6 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-![screenshot from my coding quiz](./Images/31C52CB8-837C-474B-AC59-966895EDCBAB.jpeg)
-
 ## Description
 
    The following files contain code for a coding quiz.
@@ -14,6 +11,8 @@ If a question is answered incorrectly 15 seconds will be deducted from the time
 After every answer a display will appear alerting you on whether your answer was correct or not.
 At the end there is an input for your initials where your final score will appear alongside it. 
 
+
+![screenshot from my coding quiz](./Images/31C52CB8-837C-474B-AC59-966895EDCBAB.jpeg)
 
   ## Table of Contents
 
